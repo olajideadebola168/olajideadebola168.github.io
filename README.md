@@ -22,13 +22,14 @@ Category of products sold
 
 Channel: Drill down into the performance of individual channels.
 
-**Key findings:** State Profitability: Identified the most profitable states and highlighted regions where performance could be improved.
+**Key findings:** 
+1. State Profitability: Identified the most profitable states and highlighted regions where performance could be improved.
 
-Best performing month: Revealed patterns in sales and profit in each month, allowing for more strategic planning.
+2. Best performing month: Revealed patterns in sales and profit in each month, allowing for more strategic planning.
 
-Top-Performing Channels: Highlighted which channels are driving the most revenue and profit, aiding in inventory and marketing decisions.
+3. Top-Performing Channels: Highlighted which channels are driving the most revenue and profit, aiding in inventory and marketing decisions.
 
-Gender sales: Analyzed total sales by each gender to understand market dynamics and adjust business strategies accordingly.
+4. Gender sales: Analyzed total sales by each gender to understand market dynamics and adjust business strategies accordingly.
 
 **Dashboard Overview:** 
 
