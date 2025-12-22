@@ -32,4 +32,4 @@ Gender sales: Analyzed total sales by each gender to understand market dynamics 
 
 **Dashboard Overview:** 
 
-![Vrinda store](Vrinda store.png)
+![Vrinda](Vrinda.png)
