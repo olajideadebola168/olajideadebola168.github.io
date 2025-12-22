@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** Sales Trend at Vrinda Store
+**Title:** [Sales Trend at Vrinda Store](https://github.com/olajideadebola168/olajideadebola168.github.io/blob/main/Excel%20Project.xlsx) 
 
 **Tools Used:** Microsoft Excel (Pivot table, Pivot Charts, Pie Chart, Area line, Bar Charts, Slicers and Timelines)
 
