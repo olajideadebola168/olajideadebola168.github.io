@@ -31,5 +31,4 @@ Top-Performing Channels: Highlighted which channels are driving the most revenue
 Gender sales: Analyzed total sales by each gender to understand market dynamics and adjust business strategies accordingly.
 
 **Dashboard Overview:** 
-![Vrinda store.png](Vrinda store.png)
 
