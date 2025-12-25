@@ -34,3 +34,21 @@ Channel: Drill down into the performance of individual channels.
 **Dashboard Overview:** 
 
 ![Vrinda](Vrinda.png)
+
+
+# Project 2
+
+**Title:** Food_Supply_Table: Data Manipulation and Integration
+
+**SQL Code:** [Food_Supply_Table SQL code](https://github.com/olajideadebola168/olajideadebola168.github.io/blob/main/Food_Supply_SQL)
+
+**SQL Skills Used:** 
+1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
+2. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+3. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+4. Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:**
+This project involved analysing food supply data to identify trends and patterns in supply and sales made . It is designed to provide a comprehensive overview of key performance indicators.
+
+**Technology used:** SQL server
