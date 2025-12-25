@@ -1,0 +1,31 @@
+select *
+from [dbo].['Food supply$']
+
+SELECT SUM([Qty]) AS [Sum of Cookies]
+FROM [dbo].['Food supply$']
+WHERE [Category] = 'Cookies'
+  AND [City] LIKE 'B%'
+  AND [Date] >= '2022-01-01'
+  AND [Date] < '2022-02-01'
+
+  SELECT AVG([UnitPrice]) as [Average Price]
+  FROM [dbo].['Food supply$']
+  WHERE [Product] = 'Carrot'
+  AND [Region] = 'East'
+  AND [Qty] > '30'
+
+  SELECT COUNT([Qty]) AS [Count]
+  FROM [dbo].['Food supply$']
+  WHERE [Product] like '%s'
+  AND [City] like '%York%'
+  AND [TotalPrice] > '50'
+
+SELECT SUM([Qty]) as [Sum]
+FROM [dbo].['Food supply$']
+WHERE [Product] like 'C%'
+and [Region] = 'West'
+
+SELECT MAX([Qty]) AS [Max]
+FROM [dbo].['Food supply$']
+WHERE [Category] LIKE '%COOKIES%'
+AND [City] LIKE '%O%'
