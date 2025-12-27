@@ -1,0 +1,36 @@
+SELECT [EmpID]
+      ,[EmpPosition]
+      ,[DateOfJoining]
+      ,[Salary]
+  FROM [dbo].['Employee position$']
+
+GO
+
+SELECT [EmpID]
+      ,[EmpFname]
+      ,[EmpLname]
+      ,[Department]
+      ,[Project]
+      ,[Address]
+      ,[DOB]
+      ,[Gender]
+  FROM [dbo].['Employee Info$']
+
+GO
+
+
+SELECT 
+    p.[EmpID],
+    i.[EmpFname],
+    i.[EmpLname],
+    p.[EmpPosition],
+    p.[DateOfJoining],
+    p.[Salary],
+    i.[Department],
+    i.[Project],
+    i.[Address],
+    i.[DOB],
+    i.[Gender]
+FROM [dbo].['Employee position$'] p
+INNER JOIN [dbo].['Employee Info$'] i
+ON p.[EmpID] = i.[EmpID]
