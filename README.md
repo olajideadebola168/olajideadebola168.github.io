@@ -52,3 +52,20 @@ Channel: Drill down into the performance of individual channels.
 This project involved analysing food supply data to identify trends and patterns in supply and sales made . It is designed to provide a comprehensive overview of key performance indicators.
 
 **Technology used:** SQL server
+
+
+# Project 3
+
+**Title:** Emoloyee Data Manipulation
+
+**SQL Code:** [Employee_Data SQL code](https://github.com/olajideadebola168/olajideadebola168.github.io/blob/main/Employee_ID_SQL)
+
+**SQL Skills Used:** 
+1. Data Retrieval (SELECT): Queried and extracted specific information from the database.
+2. Data Source Specification (FROM): Specified the tables used as data sources for retrieval.
+3. Data Source Combination (INNER JOIN): Extracted information from database and merged them into one table with a unique identifier.
+
+**Project Description:**
+This code involved analysing two separate tables to identify a common column to them and hereby using it to build a more comprehensive table nerging all the information as one.
+
+**Technology used:** SQL server
