@@ -69,3 +69,39 @@ This project involved analysing food supply data to identify trends and patterns
 This code involved analysing two separate tables to identify a common column to them and hereby using it to build a more comprehensive table nerging all the information as one.
 
 **Technology used:** SQL server
+
+
+# Project 4
+
+**Title:** [Student Performance data](https://github.com/olajideadebola168/olajideadebola168.github.io/blob/main/Student_Performance_Dataset.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot table, Pivot Charts, Pie Chart, Area line, Bar Charts, Slicers and Timelines)
+
+**Project Description:** This project involved analysing the performance of students at an unnamed institution. It is designed to provide a comprehensive overview of key metrics affecting performances. This dashboard allows stakeholders to easily monitor and analyze the performance of students across different ages, classes, categories and years. The dashboard includes the following features:
+
+Visual representation of the best performing students.
+
+Best performing gender in sciences.
+
+Percentile distribution across parental education groups.
+
+Performance trend overall.
+
+Overall performances according to students' age.
+
+Additionally, the dashboard includes interactive slicers for:
+
+Student ID to filter the data to view performance for a specific student
+
+Age, Class and Gender.
+
+**Key findings:** 
+1. Best performing student overall
+
+2. Top-Performing Age group
+
+3. Gender performance
+
+**Dashboard Overview:** 
+
+![Student Performace](Student.png)
