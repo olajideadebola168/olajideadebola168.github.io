@@ -4,8 +4,6 @@ SELECT [EmpID]
       ,[Salary]
   FROM [dbo].['Employee position$']
 
-GO
-
 SELECT [EmpID]
       ,[EmpFname]
       ,[EmpLname]
@@ -15,8 +13,6 @@ SELECT [EmpID]
       ,[DOB]
       ,[Gender]
   FROM [dbo].['Employee Info$']
-
-GO
 
 
 SELECT 
