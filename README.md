@@ -105,3 +105,40 @@ Age, Class and Gender.
 **Dashboard Overview:** 
 
 ![Student Performace](Student.png)
+
+
+
+# Project 5
+
+**Title:** [Interactive Dashoboard ewflwcting Performance](https://github.com/olajideadebola168/olajideadebola168.github.io/blob/main/PBI%20One.pbix)
+
+**Tools Used:** Microsoft Power BI (Cards, Charts, Pie Chart, Area line, Bar Charts, Slicers)
+
+**Project Description:** This project involved analysing the sales performance of regions and staff at an unnamed institution. It is designed to provide a comprehensive overview of key metrics affecting performances. This dashboard allows stakeholders to easily monitor and analyze the performance across categories. The dashboard includes the following features:
+
+Visual representation of the best performing students.
+
+Best performing regions.
+
+Products with the highest shipping costs.
+
+Average shipping performance.
+
+Overall best performing salesperson.
+
+Dashboard also includes interactive slicers for checking performance in each month
+
+**Key findings:** 
+1. Best performing regions
+
+2. Top-Performing salesperson
+
+3. Highest shipping costs products
+
+4. Months with the highest order returns
+
+5. The Order priority with the most orders
+
+**Dashboard Overview:** 
+
+![PBI One](PBIOne.png)
